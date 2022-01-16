@@ -19,4 +19,4 @@ Is a digital place where we can produce content, share it, and formalize deals. 
 
 ## Tools 
 - VR Headsets like Oculus Quest 2
-- Brain computer interface like Next Mind 
+- Brain computer interface developed by companied like Next Mind or Neuralink Corporation
