@@ -18,4 +18,5 @@ Is a digital place where we can produce content, share it, and formalize deals. 
 2) Unreal
 
 ## Tools 
-- VR Headsets
+- VR Headsets like Oculus Quest 2
+- Brain computer interface like Next Mind 
