@@ -18,5 +18,6 @@ Is a digital place where we can produce content, share it, and formalize deals. 
 2) Unreal
 
 ## Tools 
-- VR Headsets like Oculus Quest 2
+- AR: Augmented reality
+- VR: Virtual reality Headsets like Oculus Quest 2
 - Brain computer interface developed by companied like Next Mind or Neuralink Corporation
