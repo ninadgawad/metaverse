@@ -21,3 +21,7 @@ Is a digital place where we can produce content, share it, and formalize deals. 
 - AR: Augmented reality
 - VR: Virtual reality Headsets like Oculus Quest 2
 - Brain computer interface developed by companied like Next Mind or Neuralink Corporation
+
+
+## Links
+https://opensource.com/article/22/1/open-source-metaverse
