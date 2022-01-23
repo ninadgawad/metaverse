@@ -17,6 +17,13 @@ Is a digital place where we can produce content, share it, and formalize deals. 
 1) Unity
 2) Unreal
 
+## Apps
+- Horizon Worlds
+- Decentraland
+- The Sandbox
+- Meta
+
+
 ## Tools 
 - AR: Augmented reality
 - VR: Virtual reality Headsets like Oculus Quest 2
